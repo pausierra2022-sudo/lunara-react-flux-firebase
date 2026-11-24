@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "lunara-serverless"
+  },
+  "targets": {
+    "lunara-serverless": {
+      "hosting": {
+        "lunara-react-firebase": [
+          "lunara-react-firebase"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
